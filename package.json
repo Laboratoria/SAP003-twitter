@@ -1,0 +1,12 @@
+{
+    "name": "twitter",
+    "version": "0.0.1",
+    "main": "src/index.html",
+    "license": "MIT",
+    "scripts": {
+      "eslint": "eslint --ext .js src/ test/",
+    },
+    "dependencies": {
+      "eslint": "^5.9.0",
+    }
+  }
